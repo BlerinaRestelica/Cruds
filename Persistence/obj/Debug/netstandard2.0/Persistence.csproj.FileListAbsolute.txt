@@ -1,0 +1,12 @@
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

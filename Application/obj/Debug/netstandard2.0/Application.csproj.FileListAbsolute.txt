@@ -1,0 +1,14 @@
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\Genti\Desktop\ProjektiI\Cruds\Application\obj\Debug\netstandard2.0\Application.pdb
